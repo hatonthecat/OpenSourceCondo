@@ -45,3 +45,12 @@ Yes, some of these generations are extremely impractical. Some are comical.
 
 I prefer to generate ones that aren't entirely impractical. Perhaps this is a labor of evolution. 
 
+![_d42fe8b8-24f6-4583-bebf-0ef8d9cf19f7](https://github.com/hatonthecat/OpenSourceCondo/assets/76194453/ceff379f-5375-4762-a49e-5225510fc724)
+
+![_56063b92-ac60-4761-8002-b76666b3ecbb](https://github.com/hatonthecat/OpenSourceCondo/assets/76194453/231618fe-e140-4261-9b0d-3bd090d1bdf6)
+
+![_a5d19e93-80e5-4dd9-85e9-993cda4a865a](https://github.com/hatonthecat/OpenSourceCondo/assets/76194453/1666db97-3576-4f61-b3b0-52d69fb6f72c)
+
+![_9a82985c-2f23-4b4b-b473-bb7f96fe16a4](https://github.com/hatonthecat/OpenSourceCondo/assets/76194453/1ba4a7a8-77f9-4678-9c9a-759177e95b2b)
+
+From: https://www.bing.com/images/create/condominum-bay-slide-out-of-building-like-a-contai/1-655a66614f0748a6a3c5cc01c152fbfe?id=PSovgF6u8A8Vv6vST88utw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay
