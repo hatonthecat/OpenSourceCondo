@@ -3,13 +3,13 @@ A structural design concept for a removable condo
 
 Some Bing AI images generated with DALL-E for an old idea
 
-https://github.com/hatonthecat/Biology/blob/main/I%20wrote%20to%20Freeman%20Dyson%2015%20years%20ago%3B%20he%20responded%20nicely.pdf
-
 from https://sites.google.com/site/theoriginalepcot/project-vs-reality/the-contemporary-resort :
 
 "Approximately 500 guest rooms line the outer walls of this building. Room renovation should have been a simple matter of replacing modules when refurbishment was needed; however, it was found that the modules settled and became stuck in place, rendering them irremovable. Most of Disney's Polynesian Resort was built this way also."
 
 The winter probably makes the condos hard to dislodge. Some lubrication wouldn't be a bad idea. Most rails with shelving use some similar type. A dishwasher has a rollable rack. Really no reason the weight tolerances can't be simulated before the optimimum preventative sagging limit is determined. 
+
+https://github.com/hatonthecat/Biology/blob/main/I%20wrote%20to%20Freeman%20Dyson%2015%20years%20ago%3B%20he%20responded%20nicely.pdf
 
 
 ![_32eb0e9a-f844-4ff3-9019-b9d35b1098d9](https://github.com/hatonthecat/OpenSourceCondo/assets/76194453/147ff693-184f-4d50-b63f-9e1759be912d)
