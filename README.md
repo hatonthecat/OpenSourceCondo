@@ -7,7 +7,7 @@ from https://sites.google.com/site/theoriginalepcot/project-vs-reality/the-conte
 
 "Approximately 500 guest rooms line the outer walls of this building. Room renovation should have been a simple matter of replacing modules when refurbishment was needed; however, it was found that the modules settled and became stuck in place, rendering them irremovable. Most of Disney's Polynesian Resort was built this way also."
 
-The winter probably makes the condos hard to dislodge. Some lubrication wouldn't be a bad idea. Most rails with shelving use some similar type. A dishwasher has a rollable rack. Really no reason the weight tolerances can't be simulated before the optimimum preventative sagging limit is determined. 
+The winter probably makes the condos hard to dislodge. Some lubrication wouldn't be a bad idea. Most rails with shelving use some similar type. A dishwasher has a rollable rack. Really no reason the weight tolerances can't be simulated before the optimum preventative sagging limit is determined. The condo rails could leave an additional few centimers between the walls to wheel back and forth periodically (2-3 months) so that it is not stationary for long periods of time and rusts. 
 
 https://github.com/hatonthecat/Biology/blob/main/I%20wrote%20to%20Freeman%20Dyson%2015%20years%20ago%3B%20he%20responded%20nicely.pdf
 
