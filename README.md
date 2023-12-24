@@ -11,6 +11,10 @@ The winter probably makes the condos hard to dislodge. Some lubrication wouldn't
 
 https://github.com/hatonthecat/Biology/blob/main/I%20wrote%20to%20Freeman%20Dyson%2015%20years%20ago%3B%20he%20responded%20nicely.pdf
 
+![image](https://github.com/hatonthecat/OpenSourceCondo/assets/76194453/0597a23f-d32b-494e-8851-2461e6295132)
+
+Like Carvana, but for Condos
+
 Supplemental repository: https://github.com/hatonthecat/Post-scarcity
 
 ![_32eb0e9a-f844-4ff3-9019-b9d35b1098d9](https://github.com/hatonthecat/OpenSourceCondo/assets/76194453/147ff693-184f-4d50-b63f-9e1759be912d)
