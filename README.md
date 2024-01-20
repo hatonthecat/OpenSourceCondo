@@ -1,6 +1,10 @@
 # OpenSourceCondo
 A structural design concept for a removable condo
 
+"L'enfer, c'est les autres" Huis Clos, 1944- Jean-Paul Charles Aymard Sartre  
+
+Si l'on ne peut pas choisir celui de son voisin, les voisins pourront peut-être choisir ailleurs
+
 Some Bing AI images generated with DALL-E for an old idea
 
 from https://sites.google.com/site/theoriginalepcot/project-vs-reality/the-contemporary-resort :
