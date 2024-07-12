@@ -5,6 +5,20 @@ A structural design concept for a removable condo
 
 Si l'on ne peut pas choisir celui de son voisin, les voisins pourront peut-être choisir ailleurs
 
+# Housing is Healthcare's first line of defense-preventative healthcare
+
+Want to improve the healthcare system? Start building houses!
+
+https://nhchc.org/wp-content/uploads/2019/08/Housing-is-Health-Care.pdf
+
+https://www.healthaffairs.org/content/briefs/housing-and-health-overview-literature
+
+The primary and essential function of housing, to provide a safe and sheltered
+space, is absolutely fundamental to the people’s health and well being.
+ – Dearbhal Murphy
+ ---
+ 
+
 Some Bing AI images generated with DALL-E for an old idea
 
 from https://sites.google.com/site/theoriginalepcot/project-vs-reality/the-contemporary-resort :
