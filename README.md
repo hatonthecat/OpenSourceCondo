@@ -1,6 +1,12 @@
 # OpenSourceCondo
 A structural design concept for a removable condo (Also a grand plan to fix the housing shortage and increase social mobility)
 
+Got a new job opportunity, and need to work in another city for 3 months? Why break a lease, when you can just create a new system for parking a condo?
+
+Reduce building costs by 2/3rds- mass produce the components needed to assemble and construct a building. Standardize everything- window repair, insulation, hydraulic jack, heat pumps, water hookups, staircases, so whenever something needs replacement, it doesn't require a local contracter, since they might not be available. All the repair tools can be driven from out of town if unavailable, since the blueprints would be open-sourced.
+
+Don't like your neighbor? Vote with your feet, and a hydraulic lift!
+
 ![IMG_20241104_110701 (1)](https://github.com/user-attachments/assets/17840485-c842-4662-a668-8c2d3489c536)
 
 
