@@ -1,5 +1,5 @@
 # OpenSourceCondo
-A structural design concept for a removable condo
+A structural design concept for a removable condo (Also a grand plan to fix the housing shortage and increase social mobility)
 
 ![IMG_20241104_110701 (1)](https://github.com/user-attachments/assets/17840485-c842-4662-a668-8c2d3489c536)
 
