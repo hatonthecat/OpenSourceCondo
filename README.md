@@ -6,6 +6,8 @@ A structural design concept for a removable condo (Also a grand plan to fix the 
 
 "L'enfer, c'est les autres" Huis Clos, 1944- Jean-Paul Charles Aymard Sartre  
 
+"A woman must have money and a room of her own if she is to write fiction" - [Virginia Woolf](https://en.wikipedia.org/wiki/A_Room_of_One%27s_Own)
+
 Si l'on ne peut pas choisir celui de son voisin, les voisins pourront peut-être choisir ailleurs
 
 # Housing is Healthcare's first line of defense-preventative healthcare
