@@ -44,6 +44,32 @@ https://github.com/hatonthecat/Biology/blob/main/I%20wrote%20to%20Freeman%20Dyso
 
 Like Carvana, but for Condos
 
+https://www.yesterland.com/contemporary.html
+
+"WW: Aside from demonstrating a concept, what advantage would there being in
+building the rooms in a factory?
+JK: This type of construction was attractive to the company because, in theory, it
+would cut the building time in half. They were battling tight deadlines to get the
+Vacation Kingdom built on time. By 1970, all the available 1972 convention dates
+for the Contemporary had already been booked, so a delay was unthinkable.
+Usually, you built a structure and then the rooms. By doing both at the same time
+and then combining them, it would save time and money. It ended up doing
+neither. U.S. Steel estimated the cost for each room would be $17,000, but the final
+cost was over $100,000 a room in 1971 dollars. So imagine building a new updated
+room at 2010 costs and then the additional cost of installing it."
+
+If you read the above article about Yesterland, you might conclude and concur that the construction of the Contemporary Resort was never intended to be modular. And you are correct. However, this isn't the purpose of this repository. It's to explore the feasibility of a portable condo with an elevator. I research the possible, not the impossible.
+
+The problem is that most researchers aren't interested in history and might only read [headlines](https://margaretsullivan.substack.com/p/when-drudge-has-a-better-headline) and conclude what the research stated. But all that proves is that real innovation often gets overlooked, because no one is interested in testing a theory that was never even developed.
+
+"About 10 years ago, when people probably had more attention span than they do now, a survey from a respected organization concluded that the majority of Americans read only headlines.
+
+It was probably worse than that then — who wants to admit to such superficial habits, after all? — and it’s probably much worse than that now.
+
+That’s one reason headlines matter a lot. It’s as far as most people get. The nuances of a story, no matter how much they may matter to reporters and their editors, don’t always break through. Headlines do."
+
+As in anything in life, do you your own research.
+
 Supplemental repository: https://github.com/hatonthecat/Post-scarcity
 
 ![_32eb0e9a-f844-4ff3-9019-b9d35b1098d9](https://github.com/hatonthecat/OpenSourceCondo/assets/76194453/147ff693-184f-4d50-b63f-9e1759be912d)
