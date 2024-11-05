@@ -58,7 +58,11 @@ neither. U.S. Steel estimated the cost for each room would be $17,000, but the f
 cost was over $100,000 a room in 1971 dollars. So imagine building a new updated
 room at 2010 costs and then the additional cost of installing it."
 
-If you read the above article about Yesterland, you might conclude and concur that the construction of the Contemporary Resort was never intended to be modular. And you are correct. However, this isn't the purpose of this repository. It's to explore the feasibility of a portable condo with an elevator. I research the possible, not the impossible.
+If you read the above article about Yesterland, you might conclude and concur that the construction of the Contemporary Resort was never intended to be modular. And you are correct. However, this isn't the purpose of this repository. It's to explore the feasibility of a portable condo with an elevator. I research the possible, not the impossible. And I definitely don't base research on one-time experiments. What starts as a rumor has no less value to a good idea than one that meets conventional architecture. 
+
+"“If you have everything under control, you're not moving fast enough.” — Mario Andretti. 
+
+I am not someone who thinks there is necessarily a dream job for everyone. What I do believe though, is that there are many great opportunities that get ignored because the cost of relocation is too prohibitively expensive. And I do not think that makes for a good economy, both for individuals, and national economies. Many people invest in homes as a source of value appreciation, but the low percentage of home-ownership does not indicate a good metric for a prosperity. I think reducing debt is a greater indicator of prosperity, but also increases the ability for individuals to invest in new enterprises. If everyone is paying off a 30-year underwater mortgage, what's the value in that? Therefore I think it's wise for construction firms to allow individuals to pursue both short and long-term jobs, but to be able to spend minimal time moving. Not every town has a hotel or rental property that one can move in and out for months- and even if it were, is it worth the $100=$250 a night?
 
 The problem is that most researchers aren't interested in history and might only read [headlines](https://margaretsullivan.substack.com/p/when-drudge-has-a-better-headline) and conclude what the research stated. But all that proves is that real innovation often gets overlooked, because no one is interested in testing a theory that was never even developed.
 
