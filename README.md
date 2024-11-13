@@ -1,4 +1,7 @@
 # OpenSourceCondo
+
+https://www.404media.co/email/ed674050-352a-4fa2-94f4-74b079733526/?ref=daily-stories-newsletter (I took no part in this AI campaign but I find it hilarious- now will Elon deliver?)
+
 A structural design concept for a removable condo (Also a grand plan to fix the housing shortage and increase social mobility)
 
 Got a new job opportunity, and need to work in another city for 3 months? Why break a lease, when you can just create a new system for parking a condo?
