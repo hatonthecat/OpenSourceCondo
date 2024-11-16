@@ -30,6 +30,8 @@ https://www.healthaffairs.org/content/briefs/housing-and-health-overview-literat
 The primary and essential function of housing, to provide a safe and sheltered
 space, is absolutely fundamental to the people’s health and well being.
  – Dearbhal Murphy
+
+ Climate
  ---
 
 "It’s one thing to fail to plan for extreme weather and climate impacts. It’s another to actively impede them and even make it illegal to consider climate impacts in real estate planning (don’t look up!). That’s what North Carolina’s Republican supermajority appears to have done over and over, at the behest of developers who wanted fewer regulations, more land to build on, and no guardrails to protect against some of the destruction we’re seeing in that state right now. Not my normal vibe, I know, but just like we need every solution, we also need to understand that our votes matter, that our resilience is local, and that every future decision that doesn’t take climate risk into account is a decision that puts you and your family in danger." 
