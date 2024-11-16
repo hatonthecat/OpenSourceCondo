@@ -1,6 +1,6 @@
 # OpenSourceCondo
 
-https://www.404media.co/email/ed674050-352a-4fa2-94f4-74b079733526/?ref=daily-stories-newsletter (I took no part in this AI campaign but I find it hilarious- now will Elon deliver?)
+https://www.404media.co/email/ed674050-352a-4fa2-94f4-74b079733526/?ref=daily-stories-newsletter (I took no part in this AI campaign but I find it hilarious- now will Elon deliver?) Perhaps a motivated "fake it til you make it" activist?
 
 A structural design concept for a removable condo (Also a grand plan to fix the housing shortage and increase social mobility)
 
