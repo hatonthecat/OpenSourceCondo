@@ -63,6 +63,8 @@ As Mario Andretti [once](https://www.goodreads.com/quotes/13356-if-everything-se
 
 The irony is that single casting for automotive frames are prohibitively uninsurable, due to the cost of repairs/[replacement](https://www.businessinsider.com/tesla-car-insurance)- cheaper to produce (assuming no accidents), but far more expensive to insure, because, a dent will cause it to be totalled...
 
+![image](https://github.com/user-attachments/assets/c067f9be-a9b1-4a61-85bd-1ec1b9c98fb3)
+
 Some Bing AI images generated with DALL-E for an old idea
 
 from https://sites.google.com/site/theoriginalepcot/project-vs-reality/the-contemporary-resort :
