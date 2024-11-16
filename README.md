@@ -43,11 +43,23 @@ According to Congressional polarity, Republicans want extra land to build withou
 
 This would reduce insurance premiums, because large areas of Florida and California are uninsurable, or require FEMA insurance, due to (wild) fire, hurricane, tornados (midwest). So what exactly are insurance companies and climate planners doing when they are encouraging construction of buildings in areas with a high probability of a hurricane, such as in much of Florida, Louisiana, Texas ([Galveston](https://en.wikipedia.org/wiki/Hurricane_Rita) and the South-eastern coast, as can be seen by Hurricane Helene?
 
-The word "resilience" and "adaptation" is not taken literally enough or fast enough.
+The word "resilience" and "adaptation" is not taken literally enough or fast enough. The definition of resilience is: 
+
+"re·sil·ience
+/rəˈzilēəns/
+noun
+1.
+the capacity to withstand or to recover quickly from difficulties; toughness.
+"the remarkable resilience of so many institutions"
+2.
+the ability of a substance or object to spring back into shape; elasticity.
+"nylon is excellent in wearability and resilience""
+
+Avoiding a hurricane is objective number 1. That comprises 99% of the resilience and adaptation effort. Building a house on steel frames to [withstand](https://www.nytimes.com/2018/10/14/us/hurricane-michael-florida-mexico-beach-house.html) 225mph [winds](https://www.youtube.com/watch?v=_1GRwiHG2PY) is another way, of course, but that increases the cost of construction, not to mention the middlemen involved in getting a large insurance payout whenever a hurricane strikes. Thus the insurance system may prefer expensive premiums, so as long it doesn't become uninsurable, and they can fuel a construction industry with a frequent turnover. With portable condos at least, accessing areas that have moldy insulation might be easier because the high cost of insulation and repairs is mainly due to the labor of hiring someone to crawl into an attic or a crawlspace to remove mold, asbestos and add new spray foam, etc. 
 
 As Mario Andretti [once](https://www.goodreads.com/quotes/13356-if-everything-seems-under-control-you-re-not-going-fast-enough) [said](https://www.facebook.com/watch/?v=6280176081998143), “If everything seems under control, you're not going fast enough.”
 
-The irony is that single casting for automotive frames are prohibitively uninsurable, due to the cost of replacement- cheaper to produce (assuming no accidents), but far more expensive to insure, because, a dent will cause it to be totalled...
+The irony is that single casting for automotive frames are prohibitively uninsurable, due to the cost of repairs/[replacement](https://www.businessinsider.com/tesla-car-insurance)- cheaper to produce (assuming no accidents), but far more expensive to insure, because, a dent will cause it to be totalled...
 
 Some Bing AI images generated with DALL-E for an old idea
 
