@@ -31,7 +31,23 @@ The primary and essential function of housing, to provide a safe and sheltered
 space, is absolutely fundamental to the people’s health and well being.
  – Dearbhal Murphy
  ---
- 
+
+"It’s one thing to fail to plan for extreme weather and climate impacts. It’s another to actively impede them and even make it illegal to consider climate impacts in real estate planning (don’t look up!). That’s what North Carolina’s Republican supermajority appears to have done over and over, at the behest of developers who wanted fewer regulations, more land to build on, and no guardrails to protect against some of the destruction we’re seeing in that state right now. Not my normal vibe, I know, but just like we need every solution, we also need to understand that our votes matter, that our resilience is local, and that every future decision that doesn’t take climate risk into account is a decision that puts you and your family in danger." 
+https://www.mollywood.co/p/power-grab-ai-turned-new-york-climate
+
+From my post-scarcity [respository](https://github.com/hatonthecat/Post-scarcity):
+_"Imagine you have a slow -moving, Catgeory 5 hurricane in the Caribbean. Northbound, it is expected to reach the southern shores of Florida in days. A condo highrise has removabable condos, and all the units can be emptied from the frame structure, and temporarily moved upstate or under ground. See my blog [post](https://github.com/hatonthecat/Biology/blob/main/I%20wrote%20to%20Freeman%20Dyson%2015%20years%20ago%3B%20he%20responded%20nicely.pdf
+) on a letter I wrote to Freeman Dyson in 2008."_
+
+According to Congressional polarity, Republicans want extra land to build without regulations, and Democrats are against additional land. However, both appear to be glaringly missing a third option, resusable space in the form of portable condos with buildings that can be emptied in the event of an oncoming storm. While a tornado can appear out of nowhere, a hurricane and some wildfires _can_ be avoided with portable condos. The insurance legalese calls this "[Act of God](https://en.wikipedia.org/wiki/Act_of_God)". In my first trip to DisneyWorld in 1992, [Hurricane Andrew](https://en.wikipedia.org/wiki/Hurricane_Andrew) struck, and most southern Floridians drove upstate, where all the hotels and motels and motels had no vacancy. 
+
+This would reduce insurance premiums, because large areas of Florida and California are uninsurable, or require FEMA insurance, due to (wild) fire, hurricane, tornados (midwest). So what exactly are insurance companies and climate planners doing when they are encouraging construction of buildings in areas with a high probability of a hurricane, such as in much of Florida, Louisiana, Texas ([Galveston](https://en.wikipedia.org/wiki/Hurricane_Rita) and the South-eastern coast, as can be seen by Hurricane Helene?
+
+The word "resilience" and "adaptation" is not taken literally enough or fast enough.
+
+As Mario Andretti [once](https://www.goodreads.com/quotes/13356-if-everything-seems-under-control-you-re-not-going-fast-enough) [said](https://www.facebook.com/watch/?v=6280176081998143), “If everything seems under control, you're not going fast enough.”
+
+The irony is that single casting for automotive frames are prohibitively uninsurable, due to the cost of replacement- cheaper to produce (assuming no accidents), but far more expensive to insure, because, a dent will cause it to be totalled...
 
 Some Bing AI images generated with DALL-E for an old idea
 
@@ -41,7 +57,6 @@ from https://sites.google.com/site/theoriginalepcot/project-vs-reality/the-conte
 
 The winter probably makes the condos hard to dislodge. Some lubrication wouldn't be a bad idea. Most Craftsman cabinet drawers probably use some similar type. A dishwasher has a rollable rack. Really no reason the weight tolerances can't be simulated before the optimum preventative sagging limit is determined. The condo rails could leave an additional few centimers between the walls to wheel back and forth periodically (2-3 months) so that it is not stationary for long periods of time and rusts. 
 
-https://github.com/hatonthecat/Biology/blob/main/I%20wrote%20to%20Freeman%20Dyson%2015%20years%20ago%3B%20he%20responded%20nicely.pdf
 
 ![image](https://github.com/hatonthecat/OpenSourceCondo/assets/76194453/0597a23f-d32b-494e-8851-2461e6295132)
 
