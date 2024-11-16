@@ -80,6 +80,17 @@ While it's understandable that some cities may prefer to preserve their [charmin
 
 ![image](https://github.com/user-attachments/assets/c067f9be-a9b1-4a61-85bd-1ec1b9c98fb3)
 
+"Grandpa died last week
+And now he's buried in the rocks
+But everybody still talks about
+How badly they were shocked
+But me, I expected it to happen
+I knew he'd lost control
+When I sp— he'd built a fire on Main Street
+And shot it full of holes" -Bob Dylan, _"Stuck Inside of Mobile with the Memphis Blues Again"_ -1966 
+
+Hurricanes have been happening for centuries. Does anyone still get shocked when it happens to them?
+
 Some Bing AI images generated with DALL-E for an old idea
 
 from https://sites.google.com/site/theoriginalepcot/project-vs-reality/the-contemporary-resort :
