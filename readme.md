@@ -92,12 +92,12 @@ But me, I expected it to happen
 
 I knew he'd lost control
 
-When I sp— he'd built a fire on Main Street
+When I speed built a fire on Main Street
 
 And shot it full of holes" -Bob Dylan, 
 
-_"Stuck Inside of Mobile with the Memphis Blues Again"_ -1966 
-
+[_"Stuck Inside of Mobile with the Memphis Blues Again"_ -1966 
+](https://www.youtube.com/watch?v=3kh6K_-a0c4)
 Hurricanes have been happening for centuries. Does anyone still get shocked when it happens to them?
 
 Some Bing AI images generated with DALL-E for an old idea
