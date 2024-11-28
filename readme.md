@@ -115,7 +115,7 @@ The winter probably makes the condos hard to dislodge. Some lubrication wouldn't
 
 ![image](https://github.com/hatonthecat/OpenSourceCondo/assets/76194453/0597a23f-d32b-494e-8851-2461e6295132)
 
-Like Carvana, but for Condos
+Like [Carvana](https://www.youtube.com/watch?v=CryDXJ-pePk), but for Condos
 
 https://www.yesterland.com/contemporary.html
 
