@@ -31,6 +31,10 @@ The primary and essential function of housing, to provide a safe and sheltered
 space, is absolutely fundamental to the people’s health and well being.
  – Dearbhal Murphy
 
+https://www.theatlantic.com/magazine/archive/2025/03/american-geographic-social-mobility/681439/
+
+ https://www.theatlantic.com/podcasts/archive/2025/02/mobility-moving-america-stuck/681740/
+
  Climate
  ---
 
