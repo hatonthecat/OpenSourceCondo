@@ -1,5 +1,13 @@
 # OpenSourceCondo
 
+https://www.nytimes.com/2025/12/05/arts/design/frank-gehry-dead.html 
+
+"To some, the gritty style of Mr. Gehry’s work could come across as belligerent. In his 1990 book “City of Quartz,” the critic Mike Davis referred to the buildings Mr. Gehry produced during this period as “Dirty Harry architecture,” complaining that they failed to engage the communities around them. But these designs could also be read as a reaction to the notions of utopian purity that had dominated architectural thinking during most of the 20th century.
+
+Mr. Gehry considered the quest for purity a form of elitism — one that, at its worst, was driven by a desire to cleanse the world of the “other.” His aim, he often said, was to create architecture that allowed room for society’s misfits."
+
+yet acres/$ in urban real estate is pricey...
+
 https://www.404media.co/email/ed674050-352a-4fa2-94f4-74b079733526/?ref=daily-stories-newsletter (I took no part in this AI campaign but I find it hilarious- now will Elon deliver?) Perhaps a motivated "fake it til you make it" activist?
 
 A structural design concept for a removable condo (Also a grand plan to fix the housing shortage and increase social mobility)
