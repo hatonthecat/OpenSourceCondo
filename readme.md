@@ -1,5 +1,16 @@
 # OpenSourceCondo
 
+12-13-25
+--
+
+still searching for my Freeman Dyson email from 2008. it alao had a colorful sketch of the cobdo. it was posted on 4chan because i was bored at the time and found few places where i could find commentary.
+
+i could probably devise a better sketc than the crude pencil revision below.
+
+12-05-25
+---
+
+
 https://www.nytimes.com/2025/12/05/arts/design/frank-gehry-dead.html 
 
 "To some, the gritty style of Mr. Gehry’s work could come across as belligerent. In his 1990 book “City of Quartz,” the critic Mike Davis referred to the buildings Mr. Gehry produced during this period as “Dirty Harry architecture,” complaining that they failed to engage the communities around them. But these designs could also be read as a reaction to the notions of utopian purity that had dominated architectural thinking during most of the 20th century.
