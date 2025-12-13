@@ -5,7 +5,7 @@
 
 still searching for my Freeman Dyson email from 2008. it also had a colorful sketch of the condo. it was posted on 4chan because i was bored at the time and found few places where i could find commentary.
 
-i could probably devise a better sketc than the crude pencil revision below.
+i could probably devise a better sketch than the crude pencil revision below.
 
 12-05-25
 ---
