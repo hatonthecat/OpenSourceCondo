@@ -7,6 +7,9 @@ still searching for my Freeman Dyson email from 2008. it also had a colorful ske
 
 i could probably devise a better sketch than the crude pencil revision below.
 
+also, the title of this repository should be renamed to something trendier, like Venda-A-Condo, or Condo-On-Wheels, or better, Condo Dispenser.
+
+
 12-05-25
 ---
 
