@@ -1,5 +1,14 @@
 # VendoCondo
 
+7-19-2025
+=========
+https://www.instagram.com/p/Da8RwTBkUKb/?igsh=MWJ3ajE1anFkYnZkbQ==
+Nakgakin Capsule Tower, 1972-2022 by Kisho Kurokawa.
+
+the only complaint one today might have is that they're a little small.
+
+compared to Boxabl, which isn't Stackabl. someone probably will trademark that. Go!
+
 12-13-25
 --
 
